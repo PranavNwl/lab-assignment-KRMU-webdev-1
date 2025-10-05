@@ -1,1 +1,1 @@
-# lab-assignment-KRMU-webdev-1
+This is the image used in the assignmetnt.
